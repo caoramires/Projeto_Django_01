@@ -1,0 +1,15 @@
+Planejamento do Projeto:
+
+Homepage
+- Fazer Login e Criar Conta (Usuário e Autenticação)
+    - Email
+    - Username
+    - senha
+    = Filmes ja vistos
+
+- Filmes/Séries
+    = thumb
+    - titulo
+    = descrição
+    - categorias
+    -
